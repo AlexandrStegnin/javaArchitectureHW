@@ -1,4 +1,4 @@
-package ru.stegnin.javaArchitectureHW.entity;
+package ru.stegnin.javaArchitectureHW.HW1.entity;
 
 import lombok.Getter;
 import lombok.Setter;

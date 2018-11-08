@@ -1,4 +1,4 @@
-package ru.stegnin.javaArchitectureHW.builder;
+package ru.stegnin.javaArchitectureHW.HW1.builder;
 
 import java.util.function.BooleanSupplier;
 import java.util.function.Consumer;

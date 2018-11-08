@@ -5,8 +5,8 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
-import ru.stegnin.javaArchitectureHW.builder.Builder;
-import ru.stegnin.javaArchitectureHW.entity.User;
+import ru.stegnin.javaArchitectureHW.HW1.builder.Builder;
+import ru.stegnin.javaArchitectureHW.HW1.entity.User;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
